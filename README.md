@@ -1,16 +1,15 @@
-# dashboard
+# Free Flutter Responsive dashboard
 
-A new Flutter project.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sudhirsuri5)
 
-## Getting Started
+Flutter Dashoard
 
-This project is a starting point for a Flutter application.
+![Firs](https://github.com/sudheersuri/dashboard/blob/main/lib/screenshots/1.png)
+![Second](https://github.com/sudheersuri/dashboard/blob/main/lib/screenshots/2.png)
 
-A few resources to get you started if this is your first Flutter project:
+Watch the app in action! Check out the video demo [https://www.youtube.com/watch?v=x46JTVNht64](https://www.youtube.com/watch?v=x46JTVNht64).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Features:
+- ✅ Responsive layout
+- ✅ Dark mode
+- ✅ Flutter riverpod for state management
